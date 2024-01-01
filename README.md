@@ -5,4 +5,4 @@ For furter detailed step-by-step explanation visit:
 
 ## Data Sources
 
-- Stella Abigail. (2022). Adidas US Sales Datasets . Publisher: data.world. URL: [Link to dataset](https://data.world/stellabigail/dataset-url)
+- Stella Abigail. (2022). Adidas US Sales Datasets . Publisher: data.world. URL: [Link to dataset](https://data.world/stellabigail/adidas-us-sales-datasets)
