@@ -7,5 +7,5 @@ For furter detailed step-by-step explanation visit:
 - Stella Abigail. (2022). Adidas US Sales Datasets . Publisher: data.world. URL: [Link to dataset](https://data.world/stellabigail/adidas-us-sales-datasets)
 
 ## Contributors
-- [Nishant Reddy](https://github.com/darshanreddy186)
-- [Darshan B](https://github.com/bcNishantReddy)
+- [Darshan B](https://github.com/darshanreddy186)
+- [Nishant Reddy](https://github.com/bcNishantReddy)
