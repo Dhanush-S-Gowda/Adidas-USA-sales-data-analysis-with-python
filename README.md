@@ -15,5 +15,25 @@ For a detailed step-by-step explanation, visit the [Medium article](https://medi
 
 ## Contributors
 
-- [Darshan B](https://github.com/darshanreddy186)
-- [Nishant Reddy](https://github.com/bcNishantReddy)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Dhanush-S-Gowda">
+      <img src="https://avatars.githubusercontent.com/Dhanush-S-Gowda" width="50px;" alt="Dhanush S Gowda"/><br />
+      <b>Dhanush S Gowda</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/darshanreddy186">
+      <img src="https://avatars.githubusercontent.com/darshanreddy186" width="50px;" alt="Darshan B"/><br />
+      <b>Darshan B</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/bcNishantReddy">
+      <img src="https://avatars.githubusercontent.com/bcNishantReddy" width="50px;" alt="Nishant Reddy"/><br />
+      <b>Nishant Reddy</b>
+      </a>
+    </td>
+  </tr>
+</table>
